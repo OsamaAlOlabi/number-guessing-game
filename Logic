@@ -1,0 +1,17 @@
+User chooses easy or hard mode:
+    if user chooses easy then:
+        user has 10 lives
+    elif user chooses hard then:
+        user has 5 lives
+
+    create random number between 1 - 100
+
+    allow user to type and compare number to random number
+        if = then:
+            user won
+        elif != then:
+            wrong answer
+            lives -1
+
+        when lives is 0 game over
+
